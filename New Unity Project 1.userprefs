@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy Turret Scripts\TurretGunB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Turret Scripts\TurretGunA.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Turret Scripts\TurretGunC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Fighter Scripts\EnemyFighter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Hover Fighter Scripts\EnemyHoverFighterLookAt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Level_1_Boss.cs" Line="1" Column="1" />
+      <File FileName="Assets\ComicExplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerController.cs" Line="45" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Unity game\New Unity Project 1\Assets\Level_1_Boss.cs" line="618" column="46" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
